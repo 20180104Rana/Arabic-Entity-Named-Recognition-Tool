@@ -6,7 +6,7 @@
 * The objective of this tool is to automatically identify and classify named entities such as persons, organizations or locations in Arabic texts.
 
 # Implementation
-*The implementation of the Arabic Entity named recognition Tool is done in Python using the keras library.
+* The implementation of the Arabic Entity named recognition Tool is done in Python using the keras library.
 
 * The first step of the tool is to preprocess the input Arabic text by tokenizing , cleaning and embedding the words using a pre-trained word2vec model. The word2vec model learned from a large corpus of Arabic texts and provides a dense vector representation for each word in the vocabulary, which captures semantic and syntactic information about the language.
 
